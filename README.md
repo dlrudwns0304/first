@@ -55,7 +55,7 @@
   12. `git push origin main` 깃허브 저장소에 업로드
   ----
   # 과제
-  ## 스크린리더기 <html lnag="ko" > 
-  ## 다국어설정 <meta charset="UTF-8"> 
-  ## 키워드 <meta name="keywords" content="html,html공부,html초보">
-  ## 부가설명 <meta name="description" content="2025년 완벽하게 html을 마스터 하고 싶으신가요? 여기서 공부하세요!!">
+  스크린리더기 <html lnag="ko" > 
+  다국어설정 <meta charset="UTF-8"> 
+  키워드 <meta name="keywords" content="html,html공부,html초보">
+  부가설명 <meta name="description" content="2025년 완벽하게 html을 마스터 하고 싶으신가요? 여기서 공부하세요!!">
