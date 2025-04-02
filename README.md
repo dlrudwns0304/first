@@ -8,8 +8,12 @@
  ### HTML 구조태그
  HTML5 버전 선언하는 `<!doctype html>`
  HTML 웹브라우저 구조 처리하는 태그들
- 1. `<html></html>`
+ 1. `<html</html>` 
+  <html lnag="ko" > 스크린리더기
  2. `<head></head>`
+  <meta charset="UTF-8"> 다국어설정
+  <meta name="keywords" content="html,html공부,html초보"> 키워드 
+  <meta name="description" content="2025년 완벽하게 html을 마스터 하고 싶으신가요? 여기서 공부하세요!!"> 설명명
  3. `<body></body>`
  ----
  # git&github
